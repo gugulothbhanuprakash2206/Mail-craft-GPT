@@ -2,7 +2,6 @@
 
 MAIL CRAFT GPT is an intelligent email generation platform powered by OpenAI's GPT. Create professional, personalized, and contextually appropriate emails for any situation using cutting-edge AI technology.
 
-**Live Demo**: [https://mail-craft-gpt-loqh-o52gb2dxx-nishapriya2485s-projects.vercel.app](https://mail-craft-gpt-loqh-o52gb2dxx-nishapriya2485s-projects.vercel.app)
 
 
 
